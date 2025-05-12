@@ -22,7 +22,7 @@
     "name": "Heat transfer by Conduction",
     "short-name": "heat-transfer-conduction",
     "repo": "https://github.com/virtual-labs/exp-heat-transfer-conduction-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
