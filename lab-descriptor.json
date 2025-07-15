@@ -59,7 +59,14 @@
     "repo": "https://github.com/virtual-labs/exp-thermo-couple-seebeck-effect-amrt",
     "tag": "v1.0.0",
     "deploy": true
-  }
+  },
+{
+  "name": "Lee's Disc Apparatus",
+  "short-name": "lees-disc-apparatus",
+  "repo": "https://github.com/virtual-labs/exp-lees-disc-apparatus-amrt",
+  "tag": "v1.0.0",
+  "deploy": true
+}
 ],
     "targetAudience": {
         "UG": [
