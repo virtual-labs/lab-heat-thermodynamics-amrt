@@ -22,14 +22,14 @@
     "name": "Heat transfer by Conduction",
     "short-name": "heat-transfer-conduction",
     "repo": "https://github.com/virtual-labs/exp-heat-transfer-conduction-amrt",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
     "name": "Heat Transfer by Natural Convection",
     "short-name": "heat-transfer-natural-convection",
     "repo": "https://github.com/virtual-labs/exp-heat-transfer-natural-convection-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
@@ -43,21 +43,21 @@
     "name": "Black Body Radiation: Determination of Stefan's Constant",
     "short-name": "black-body-radiation-stefans",
     "repo": "https://github.com/virtual-labs/exp-black-body-radiation-stefans-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Newton's Law of Cooling",
     "short-name": "newtons-law-cooling",
     "repo": "https://github.com/virtual-labs/exp-newtons-law-cooling-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
   {
     "name": "Thermo Couple-Seebeck Effect",
     "short-name": "thermo-couple-seebeck-effect",
     "repo": "https://github.com/virtual-labs/exp-thermo-couple-seebeck-effect-amrt",
-    "tag": "v1.0.0",
+    "tag": "v1.0.1",
     "deploy": true
   },
 {
