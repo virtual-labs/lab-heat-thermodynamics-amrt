@@ -15,14 +15,14 @@
     "name": "Heat Transfer by Radiation",
     "short-name": "heat-transfer-radiation",
     "repo": "https://github.com/virtual-labs/exp-heat-transfer-radiation-amrt",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
     "name": "Heat transfer by Conduction",
     "short-name": "heat-transfer-conduction",
     "repo": "https://github.com/virtual-labs/exp-heat-transfer-conduction-amrt",
-    "tag": "v1.0.3",
+    "tag": "v1.0.4",
     "deploy": true
   },
   {
